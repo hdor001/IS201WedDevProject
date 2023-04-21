@@ -1,0 +1,126 @@
+
+body{
+    background-color:lavender;
+}
+.common{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:black;
+
+
+}
+
+.header{
+    font-size: xx-large;
+}
+
+.subheader{
+    font-size: large;
+    font-weight: 200;
+}
+
+nav{
+    background-color: black;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a:hover{
+    background-color: grey;
+    color: whitesmoke
+}
+
+nav a {
+    float: left;
+    color: whitesmoke;
+    padding:10px 40px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sectionHeader{
+    text-align: left;
+    margin-top:60px;
+    margin-left:25%;
+    margin-right: 25%;
+}
+
+p{
+    font-size: normal;
+    text-align: left;
+    margin-left:25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:25%;
+}
+
+ol{
+    font-size: normal;
+    text-align: left;
+    margin-left:25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:25%;
+}
+
+ul{
+    font-size: normal;
+    text-align: left;
+    margin-left:25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:25%;
+} 
+
+.title{
+    text-align:center;
+    font-weight: bold;
+    font-size: large;
+}
+
+img{
+    display:block;
+    height: 450px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.video{
+    text-align: center;
+}
+
+.tableau{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+
+.referal{
+    background-color: black;
+    color:whitesmoke;
+    height:30px
+}
+.parting{
+    background-color: white;
+    color: black;
+    font-size: normal;
+    text-align: center;
+    margin-left:25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:25%;
+}
+
+.button{
+    background-color: black;
+    color:white;
+    height: 30px;
+}
+
+.footer{
+    color:white;
+    background-color: black;
+}
